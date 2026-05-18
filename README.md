@@ -2,7 +2,7 @@
 
 # 𓂃 ࣪˖ Haniya 🌙
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&pause=1000&color=C8A2C8&center=true&vCenter=true&width=500&lines=CS+student;Learning+Django+and+backend+development;Drawn+to+thoughtful+digital+spaces;Building+quiet+little+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&pause=1000&color=9D7E9F&center=true&vCenter=true&width=500&lines=CS+student;Learning+Django+and+backend+development;Drawn+to+thoughtful+digital+spaces;Building+calm+and+creative+projects" />
 
 </div>
 
@@ -13,9 +13,9 @@
 > *Code, craft, design, and quiet little ideas.*
 
 💻 BSc Computer Science student  
-🌱 Currently learning Django, backend development, and real-world project building  
+🌱 Currently learning Django, backend development, and real-world projects  
 🎨 Interested in thoughtful digital spaces, design, and UI/UX  
-☕ Trying to build things that feel useful, calm, and beautifully intentional  
+☕ Trying to build things that feel useful, calm, and intentional 
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### currently learning
+### ✦ currently learning
 
 - Django best practices
 - Backend development
@@ -37,7 +37,7 @@
 
 ---
 
-### little things i like
+### ⊹ Little things I like
 
 🌙 Journaling  
 🎨 Handmade crafts  
