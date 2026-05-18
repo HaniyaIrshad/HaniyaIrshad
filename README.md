@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Haniya 👋
 
-<!--
-**HaniyaIrshad/HaniyaIrshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BSc Computer Science student  
+🌱 Currently learning Django, Python, and backend development  
+🎨 Interested in tech, design, and creative projects  
+🚀 Building projects to improve my development and problem-solving skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Python
+- Django
+- HTML
+- CSS
+- SQLite
+- Git & GitHub
+
+---
+
+## 📌 Featured Project
+
+### 📚 StudyFlow
+A Django-based student productivity and task management web application with:
+- subject management
+- task tracking
+- notes system
+- dashboard analytics
+- search and filtering
+
+🔗 Project Link:  
+https://github.com/HaniyaIrshad/StudyFlow
+
+---
+
+## 🌱 Currently Working On
+
+- Improving Django development skills
+- Building real-world web applications
+- Learning better UI/UX practices
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/HaniyaIrshad
