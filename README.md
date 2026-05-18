@@ -40,7 +40,3 @@ https://github.com/HaniyaIrshad/StudyFlow
 - Learning better UI/UX practices
 
 ---
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/HaniyaIrshad
