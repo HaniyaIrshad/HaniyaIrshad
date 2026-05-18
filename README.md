@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𓂃 ࣪˖ haniya 🌙
+# 𓂃 ࣪˖ Haniya 🌙
 
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&pause=1000&color=C8A2C8&center=true&vCenter=true&width=500&lines=CS+student;Learning+Django+and+backend+development;Drawn+to+thoughtful+digital+spaces;Building+quiet+little+projects" />
 
@@ -31,9 +31,9 @@
 
 - Django best practices
 - Backend development
-- UI/UX fundamentals
-- Building cleaner and more meaningful projects
-- Writing better and more maintainable code
+- UI/UX improvements
+- Building meaningful projects
+- Strengthening algorithmic thinking
 
 ---
 
