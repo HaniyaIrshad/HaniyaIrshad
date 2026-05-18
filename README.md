@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # haniya 🌙
@@ -65,4 +64,3 @@ code, craft, design, and quiet little ideas
 ### somewhere between tech and creativity ✨
 
 </div>
-````
