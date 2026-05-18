@@ -1,8 +1,3 @@
-You probably can’t copy easily because the markdown is rendering instead of staying as plain text.
-
-I’ll put it in a clean copy block below. Copy everything inside exactly and paste it into your GitHub `README.md`.
-
-```text
 <div align="center">
 
 # 𓂃 ࣪˖ haniya 🌙
@@ -67,5 +62,4 @@ I’ll put it in a clean copy block below. Copy everything inside exactly and pa
 ### somewhere between technology and creativity ✨
 
 </div>
-```
 
