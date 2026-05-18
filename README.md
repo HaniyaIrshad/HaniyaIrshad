@@ -18,21 +18,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 📚 StudyFlow
-A Django-based student productivity and task management web application with:
-- subject management
-- task tracking
-- notes system
-- dashboard analytics
-- search and filtering
-
-🔗 Project Link:  
-https://github.com/HaniyaIrshad/StudyFlow
-
----
-
 ## 🌱 Currently Working On
 
 - Improving Django development skills
