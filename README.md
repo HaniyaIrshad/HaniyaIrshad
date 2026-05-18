@@ -1,8 +1,13 @@
+You probably can’t copy easily because the markdown is rendering instead of staying as plain text.
+
+I’ll put it in a clean copy block below. Copy everything inside exactly and paste it into your GitHub `README.md`.
+
+```text
 <div align="center">
 
-# haniya 🌙
+# 𓂃 ࣪˖ haniya 🌙
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=C8A2C8&center=true&vCenter=true&width=435&lines=cs+student;learning+django+and+backend+development;building+things+slowly+and+beautifully" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&pause=1000&color=C8A2C8&center=true&vCenter=true&width=500&lines=CS+student;Learning+Django+and+backend+development;Drawn+to+thoughtful+digital+spaces;Building+quiet+little+projects" />
 
 </div>
 
@@ -10,14 +15,12 @@
 
 ### about me
 
-```text
-code, craft, design, and quiet little ideas
-```
+> *Code, craft, design, and quiet little ideas.*
 
-💻 bsc computer science student  
-🌱 currently learning django, backend development, and real-world project building  
-🎨 interested in thoughtful digital spaces, design, and creativity  
-☕ trying to build things that feel useful, calm, and unique
+💻 BSc Computer Science student  
+🌱 Currently learning Django, backend development, and real-world project building  
+🎨 Interested in thoughtful digital spaces, design, and UI/UX  
+☕ Trying to build things that feel useful, calm, and beautifully intentional  
 
 ---
 
@@ -31,21 +34,21 @@ code, craft, design, and quiet little ideas
 
 ### currently learning
 
-- django best practices
-- backend development
-- ui/ux improvements
-- building cleaner projects
-- writing better code
+- Django best practices
+- Backend development
+- UI/UX fundamentals
+- Building cleaner and more meaningful projects
+- Writing better and more maintainable code
 
 ---
 
 ### little things i like
 
-🌙 journaling  
-🎨 handmade crafts  
-📖 thoughtful stories  
-☁️ calm interfaces  
-🕯 soft aesthetics  
+🌙 Journaling  
+🎨 Handmade crafts  
+📖 Thoughtful stories  
+☁️ Calm interfaces  
+🕯 Vintage aesthetics  
 
 ---
 
@@ -61,6 +64,8 @@ code, craft, design, and quiet little ideas
 
 <div align="center">
 
-### somewhere between tech and creativity ✨
+### somewhere between technology and creativity ✨
 
 </div>
+```
+
